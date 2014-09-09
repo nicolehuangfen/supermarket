@@ -1,0 +1,30 @@
+div{
+            padding:20px;
+            margin:0px;
+        }
+        .background{
+        	width:100%;
+        }
+        .head{
+            height:100px;
+            width:100%;
+            text-align:center;
+            border-bottom:1px solid black;
+        }
+
+        .left{
+            width:15%;
+            min-height:1000px;
+            float:left;
+            border-right:1px solid black;
+             
+        }
+        .right{
+        	width:85%;
+            min-height:1000px;
+            float:right;
+            text-align:right;
+        }
+        body{
+        background-color:#D1EEEE;
+        }
